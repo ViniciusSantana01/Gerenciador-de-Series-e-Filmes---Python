@@ -1,5 +1,4 @@
-#UMC - Universidade de Mogi das Cruzes
-#Programadores Mirim - Vinícius da Silva Santana
+#Programador mirim - Vinícius da Silva Santana
 # ========================================================================================== #
 
 # =============================== # Funções reservadas # =================================== #
