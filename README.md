@@ -17,3 +17,11 @@ Funcionalidades:
     Armazenamento de dados: Filmes e séries são armazenados em listas e posteriormente salvos em arquivos.
     Formatação de texto: O programa utiliza cores e estilos para destacar informações importantes.
 
+Exemplo de uso:
+
+    Um usuário pode adicionar um filme à biblioteca, informando o nome e o gênero.
+    O usuário pode remover uma série da biblioteca, pesquisando pelo nome.
+    O usuário pode atualizar o progresso de uma série, informando o número do episódio e da temporada atual.
+    O usuário pode visualizar a lista completa de filmes e séries a qualquer momento.
+    O programa salva a biblioteca em arquivos "filmes.txt" e "series.txt" ao sair.
+
